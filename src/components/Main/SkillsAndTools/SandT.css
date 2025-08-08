@@ -1,0 +1,46 @@
+#SkillAndTools{
+    color: antiquewhite;
+    padding-top: 100px;
+    margin-top: 250px;
+    margin-bottom: 50px;
+}
+#SkillAndTools h2{
+    margin-left: 5%;
+}
+.SandT-blocks{
+    display: flex;
+    justify-content: center;
+    gap: 20%;
+    margin-top: 80px;
+}
+.Skills-block, .Tools-block{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 50px;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 20px;
+}
+.SkillTools{
+    display: flex;
+    flex-direction: column;
+    align-items: center;            
+}
+.SkillTools img{
+    width: 94px;
+    height: 94px;
+}
+.react-spin{
+    animation: spin 8s linear infinite;
+}
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.SkillTools p{
+    margin: 0;
+}
