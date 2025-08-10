@@ -7,19 +7,19 @@ export default function Projects() {
         <h2>Projects</h2>
         <div className="projects-container">
             <div className="project-box">
-                <img src="#" alt="#" />
+                <img src="" alt="#" />
                 <p>qwerty</p>
-                <a href="#"></a>
+                <a href=""></a>
             </div>
             <div className="project-box">
-                <img src="#" alt="#" />
+                <img src="" alt="#" />
                 <p>qwerty</p>
-                <a href="#"></a>
+                <a href=""></a>
             </div>
             <div className="project-box">
-                <img src="#" alt="#" />
+                <img src="" alt="#" />
                 <p>qwerty</p>
-                <a href="#"></a>
+                <a href=""></a>
             </div>
         </div>
     </div>

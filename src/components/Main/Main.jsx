@@ -6,7 +6,7 @@ import Projects from './Projects/Projects';
 
 export default function Main() {
   return (
-    <div className="wrapper" style={{paddingBottom: 500 + 'px'}}>
+    <div className="wrapper" style={{paddingBottom: 300 + 'px'}}>
       <ConInfo/>
       <SandT/>
       <Education/>

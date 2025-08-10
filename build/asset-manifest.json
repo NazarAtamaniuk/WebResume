@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/WebResume/static/css/main.bd016c80.css",
+    "main.js": "/WebResume/static/js/main.a88022c1.js",
+    "static/media/icFitki.png": "/WebResume/static/media/icFitki.2aa0535fd4d74de61060.png",
+    "static/media/icMagistr.png": "/WebResume/static/media/icMagistr.812dc062bbf50a64a959.png",
+    "static/media/soon.png": "/WebResume/static/media/soon.2104c320fbf3473d161a.png",
+    "static/media/icGitHub.png": "/WebResume/static/media/icGitHub.c5d17c4c9dcfaeb6413c.png",
+    "index.html": "/WebResume/index.html",
+    "main.bd016c80.css.map": "/WebResume/static/css/main.bd016c80.css.map",
+    "main.a88022c1.js.map": "/WebResume/static/js/main.a88022c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd016c80.css",
+    "static/js/main.a88022c1.js"
+  ]
+}
